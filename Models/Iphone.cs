@@ -8,6 +8,7 @@ namespace DesafioPOO.Models
         {
             Console.WriteLine($"Número: {numero} \nModelo: {modelo} \nIMEI: {imei} \nMemória: {memoria}");
         }
+        
         // TODO: Sobrescrever o método "InstalarAplicativo"
         // Ok
         public override void InstalarAplicativo(string nomeApp)
